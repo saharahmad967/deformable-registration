@@ -11,7 +11,7 @@ Example data are provided in the subfolders
 
 - Run DEM_main.m in MATLAB
 - Results (warped tissue segmentation map and displacement field) will be saved in the 'output' subfolder
-- Code takes approximately 2 - 3 hours to finish, depending on the system
+- Code takes approximately 1 - 2 hours to finish, depending on the system
 
 # Results Visualization
 - Open moving/fixed/warped tissue segmentation maps in ITK-SNAP
